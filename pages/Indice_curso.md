@@ -3,20 +3,47 @@
 # Indice del curso
 
 ## Modelado de Datos (Power Pivot) y fórmulas DAX
-	Ejemplos basados en diario contable para obtener Estados financieros
+	
+### Módulo 0
+  * ¿Listos para comenzar? Aspecto preparatorios
+  * Repaso breve del curso anterior
+    * Cargar datos desde power query 
+    * Recorriendo el entorno de power pivot
 
+### Módulo 1
+  * Sintaxis de columnas y tablas, operadores y tipos de datos
+  * Tipos de relaciones y Tablas
+
+### Módulo 2
   * El Modelo de Datos
   *	El Esquema en estrella
-  *	Normalizar el Modelo de Datos y recomendaciones
+  * Normalización
+
+### Módulo 3
   *	Introducción a DAX
   *	Funciones de Excel presentes en DAX
-  *	Funciones DAX comunes
 
+### Módulo 4 (Opcional)
+  * Caso práctico de repaso
+
+### Módulo 5
+  *	Funciones DAX comunes
+  * Contextos
+
+### Módulo 6
+  * Visualización, funciones de cubo
+  * Caso práctico Obtención Estados Financieros
+  * Cálculo de ratios
 
   
 ## Visualizaciones y Publicación de reportes con Power BI
-  1.  Introducción a Power BI para la elaboración de Cuadros de mando e informes.
-  1.	[Importar Modelo de Datos de Excel a Power BI Desktop](https://raulbm.github.io/Curso-de-Herramientas-analiticas-para-auditoria-II/pages/xxx.html)  (CSV <a href="/Curso-de-Herramientas-analiticas-para-auditoria-II/downloads/"><i class="far fa-file-code"></i> </a>) 
+
+### Módulo 7
+  1. Instalar PBI, instalar plugin para Excel y crear cuenta online
+	1. Conociendo el entorno comparándolo con excel
+	1. Caso práctico en PBI
+	1. Publicar en la web
+  1. Conocer entorno web (Power BI Service): paneles, informes y datos
 
 
 ## Casos prácticos
@@ -30,7 +57,7 @@
 
 ## [Enlace para descargar todos los ficheros de ejercios en un zip](https://raulbm.github.io/Curso-de-Herramientas-analiticas-para-auditoria-II/downloads/Ejercicios.zip)
 
-## [SOLUCIONES](https://raulbm.github.io/Curso-de-Herramientas-analiticas-para-auditoria-II/pages/Soluciones.html)
-
 
 ## [ENLACES DE INTERES](https://raulbm.github.io/Curso-de-Herramientas-analiticas-para-auditoria-II/pages/EnlacesBlogsInteresantes.html)
+
+### Mi contacto: raulbm @ gmail.com
