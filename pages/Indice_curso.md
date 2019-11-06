@@ -61,7 +61,7 @@
 ## [ENLACES DE INTERES](https://raulbm.github.io/Curso-de-Herramientas-analiticas-para-auditoria-II/pages/EnlacesBlogsInteresantes.html)
 
 ### Nuestros contactos: 
-<table>
+<table border="0">
 	<tbody>
 		<tr>
 			<td>raulbm @ mundiaudit.com</td>
