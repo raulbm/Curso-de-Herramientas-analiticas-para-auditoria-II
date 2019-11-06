@@ -5,7 +5,7 @@
 ## Modelado de Datos (Power Pivot) y fórmulas DAX
 	
 ### Módulo 0
-  * ¿Listos para comenzar? Aspecto preparatorios
+  * ¿Listos para comenzar? Aspectos preparatorios
   * Repaso breve del curso anterior
     * Cargar datos desde power query 
     * Recorriendo el entorno de power pivot
@@ -61,3 +61,5 @@
 ## [ENLACES DE INTERES](https://raulbm.github.io/Curso-de-Herramientas-analiticas-para-auditoria-II/pages/EnlacesBlogsInteresantes.html)
 
 ### Mi contacto: raulbm @ gmail.com
+![Perfil Linked in](https://www.linkedin.com/?trk=public_profile_nav-header-logo)
+ https://www.linkedin.com/in/raulbm/
