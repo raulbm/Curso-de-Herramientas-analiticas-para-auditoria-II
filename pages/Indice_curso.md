@@ -4,11 +4,12 @@
 
 ## Modelado de Datos (Power Pivot) y fórmulas DAX
 	
-### Módulo 0
+### [Módulo 0](https://sway.office.com/YYOjRd6GVneIEELP?ref=Link)
   * ¿Listos para comenzar? Aspectos preparatorios
   * Repaso breve del curso anterior
     * Cargar datos desde power query 
     * Recorriendo el entorno de power pivot
+    <iframe width="760px" height="500px" src="https://sway.office.com/s/YYOjRd6GVneIEELP/embed" frameborder="0" marginheight="0" marginwidth="0" max-width="100%" sandbox="allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts" scrolling="no" style="border: none; max-width: 100%; max-height: 100vh" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>
 
 ### Módulo 1
   * Sintaxis de columnas y tablas, operadores y tipos de datos
