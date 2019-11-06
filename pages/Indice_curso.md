@@ -68,8 +68,8 @@
 			<td>ignacioll @ mundiaudit.com</td>
 		</tr>
 		<tr>
-			<td><a href"https://www.linkedin.com/in/raulbm/"><img src="/Curso-de-Herramientas-analiticas-para-auditoria-II/images/LinkedInConnectButton.jpg"></a></td>
-			<td><a href"https://www.linkedin.com/in/ignacio-lópez-lópez-13873a100/"><img src="/Curso-de-Herramientas-analiticas-para-auditoria-II/images/LinkedInConnectButton.jpg"></a></td>
+			<td><a href="https://www.linkedin.com/in/raulbm/"><img src="/Curso-de-Herramientas-analiticas-para-auditoria-II/images/LinkedInConnectButton.jpg"></a></td>
+			<td><a href="https://www.linkedin.com/in/ignacio-lópez-lópez-13873a100/"><img src="/Curso-de-Herramientas-analiticas-para-auditoria-II/images/LinkedInConnectButton.jpg"></a></td>
 		</tr>
 	</tbody>
 </table>
