@@ -40,9 +40,9 @@
 
 ### Módulo 7
   1. Instalar PBI, instalar plugin para Excel y crear cuenta online
-	1. Conociendo el entorno comparándolo con excel
-	1. Caso práctico en PBI
-	1. Publicar en la web
+  1. Conociendo el entorno comparándolo con excel
+  1. Caso práctico en PBI
+  1. Publicar en la web
   1. Conocer entorno web (Power BI Service): paneles, informes y datos
 
 
