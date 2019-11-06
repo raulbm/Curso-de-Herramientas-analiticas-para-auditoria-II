@@ -9,29 +9,30 @@
   * Repaso breve del curso anterior
     * Cargar datos desde power query 
     * Recorriendo el entorno de power pivot
-    <iframe width="760px" height="500px" src="https://sway.office.com/s/YYOjRd6GVneIEELP/embed" frameborder="0" marginheight="0" marginwidth="0" max-width="100%" sandbox="allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts" scrolling="no" style="border: none; max-width: 100%; max-height: 100vh" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>
+   <!-- <iframe width="760px" height="500px" src="https://sway.office.com/s/YYOjRd6GVneIEELP/embed" frameborder="0" marginheight="0" marginwidth="0" max-width="100%" sandbox="allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts" scrolling="no" style="border: none; max-width: 100%; max-height: 100vh" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe> -->
 
-### Módulo 1
+### [Módulo 1](https://sway.office.com/7IuKEdvRTbwCF7dD?ref=Link)
   * Sintaxis de columnas y tablas, operadores y tipos de datos
   * Tipos de relaciones y Tablas
 
-### Módulo 2
+### [Módulo 2](https://sway.office.com/j9rsR8HSuDYZaefG?ref=Link)
   * El Modelo de Datos
-  *	El Esquema en estrella
   * Normalización
+  *	El Esquema en estrella
+  * Laboratorio
 
-### Módulo 3
+### [Módulo 3](https://sway.office.com/rUf3dRB8Bn8jDeHS?ref=Link)
   *	Introducción a DAX
   *	Funciones de Excel presentes en DAX
 
-### Módulo 4 (Opcional)
+### [Módulo 4]() (Opcional)
   * Caso práctico de repaso
 
-### Módulo 5
+### [Módulo 5]()
   *	Funciones DAX comunes
   * Contextos
 
-### Módulo 6
+### [Módulo 6]()
   * Visualización, funciones de cubo
   * Caso práctico Obtención Estados Financieros
   * Cálculo de ratios
@@ -42,7 +43,7 @@
 ### Módulo 7
   1. Instalar PBI, instalar plugin para Excel y crear cuenta online
   1. Conociendo el entorno comparándolo con excel
-  1. Caso práctico en PBI
+  1. [Caso práctico en PBI](https://docs.microsoft.com/es-es/power-bi/desktop-tutorial-analyzing-sales-data-from-excel-and-an-odata-feed)
   1. Publicar en la web
   1. Conocer entorno web (Power BI Service): paneles, informes y datos
 
