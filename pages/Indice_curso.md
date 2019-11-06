@@ -61,6 +61,6 @@
 ## [ENLACES DE INTERES](https://raulbm.github.io/Curso-de-Herramientas-analiticas-para-auditoria-II/pages/EnlacesBlogsInteresantes.html)
 
 ### Mi contacto: raulbm @ gmail.com
-[<img src="/Curso-de-Herramientas-analiticas-para-auditoria-II/images/linkedinlogo.png">](https://www.linkedin.com/in/raulbm/)
+[<img src="/Curso-de-Herramientas-analiticas-para-auditoria-II/images/ConeccWithMeLinkedin.png">](https://www.linkedin.com/in/raulbm/)
 
-[![Mi Linked in](/Curso-de-Herramientas-analiticas-para-auditoria-II/images/linkedinlogo.png)](https://www.linkedin.com/in/raulbm/)
+[![Mi Linked in](/Curso-de-Herramientas-analiticas-para-auditoria-II/images/ConeccWithMeLinkedin.png)](https://www.linkedin.com/in/raulbm/)
