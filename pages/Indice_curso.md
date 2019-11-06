@@ -61,7 +61,6 @@
 ## [ENLACES DE INTERES](https://raulbm.github.io/Curso-de-Herramientas-analiticas-para-auditoria-II/pages/EnlacesBlogsInteresantes.html)
 
 ### Nuestros contactos: 
-raulbm @ mundiaudit.com [<img src="/Curso-de-Herramientas-analiticas-para-auditoria-II/images/LinkedInConnectButton.jpg">](https://www.linkedin.com/in/raulbm/)
-
-ignacioll @ mundiaudit.com [![Mi Linked in](/Curso-de-Herramientas-analiticas-para-auditoria-II/images/LinkedInConnectButton.png)](https://www.linkedin.com/in/ignacio-lópez-lópez-13873a100/)
+raulbm @ mundiaudit.com               ignacioll @ mundiaudit.com
+[<img src="/Curso-de-Herramientas-analiticas-para-auditoria-II/images/LinkedInConnectButton.jpg">](https://www.linkedin.com/in/raulbm/)               [![Mi Linked in](/Curso-de-Herramientas-analiticas-para-auditoria-II/images/LinkedInConnectButton.jpg)](https://www.linkedin.com/in/ignacio-lópez-lópez-13873a100/)
 
