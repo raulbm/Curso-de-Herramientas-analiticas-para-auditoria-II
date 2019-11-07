@@ -25,14 +25,15 @@
   *	Introducción a DAX
   *	Funciones de Excel presentes en DAX
 
-### [Módulo 4]() (Opcional)
+### [Módulo 4](https://sway.office.com/BbWAbsc9pIMvtvdd?ref=Link) (Opcional)
   * Caso práctico de repaso
 
-### [Módulo 5]()
-  *	Funciones DAX comunes
-  * Contextos
+### Módulo 5
+  *	[Funciones DAX comunes](https://sway.office.com/DVbC6PoC404cj5Dr?ref=Link)
+  * [Contextos](https://sway.office.com/veU9irovGannrEk0?ref=Link)
+  * [Laboratorio](https://sway.office.com/F8MJVEK8EUK0goM3?ref=Link)
 
-### [Módulo 6]()
+### [Módulo 6](https://sway.office.com/GkmbAle1Ecbf4N7C?ref=Link)
   * Visualización, funciones de cubo
   * Caso práctico Obtención Estados Financieros
   * Cálculo de ratios
