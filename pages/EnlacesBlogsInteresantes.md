@@ -14,6 +14,7 @@
 * <https://www.excelguru.ca/blog/>
 * <https://www.poweredsolutions.co/es/> (En castellano)
 * <https://guyinacube.com/>
+* <https://docs.microsoft.com/es-es/power-bi/guided-learning/>
 
 
 
