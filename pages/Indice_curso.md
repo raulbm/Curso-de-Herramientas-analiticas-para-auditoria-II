@@ -61,7 +61,10 @@
 ## [Enlace para descargar todos los ficheros de ejercios en un zip](https://raulbm.github.io/Curso-de-Herramientas-analiticas-para-auditoria-II/downloads/Ejercicios.zip)
 
 
-## [ENLACES DE INTERES](https://raulbm.github.io/Curso-de-Herramientas-analiticas-para-auditoria-II/pages/EnlacesBlogsInteresantes.html)
+## [Enlaces de interés](https://raulbm.github.io/Curso-de-Herramientas-analiticas-para-auditoria-II/pages/EnlacesBlogsInteresantes.html)
+
+## [Encuesta](https://es.surveymonkey.com/r/5TVK32L)
+
 
 ### Nuestros contactos: 
 <table border="0">

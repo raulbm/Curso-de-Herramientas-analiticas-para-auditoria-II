@@ -17,8 +17,3 @@
 * <https://docs.microsoft.com/es-es/power-bi/guided-learning/>
 
 
-
-
-
-* 
-
