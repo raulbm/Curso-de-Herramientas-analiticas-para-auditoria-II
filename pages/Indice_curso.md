@@ -63,7 +63,8 @@
 
 ## [Enlaces de interés](https://raulbm.github.io/Curso-de-Herramientas-analiticas-para-auditoria-II/pages/EnlacesBlogsInteresantes.html)
 
-## [Encuesta](https://es.surveymonkey.com/r/5TVK32L)
+## [Encuesta AT 12 Oviedo 16-17.12.2019](https://es.surveymonkey.com/r/GK8XLLN)
+## [Encuesta AT 14 Tenerife 7.11.2019](https://es.surveymonkey.com/r/5TVK32L)
 
 
 ### Nuestros contactos: 
