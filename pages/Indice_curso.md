@@ -63,8 +63,7 @@
 
 ## [Enlaces de interés](https://raulbm.github.io/Curso-de-Herramientas-analiticas-para-auditoria-II/pages/EnlacesBlogsInteresantes.html)
 
-## [Encuesta AT 12 Oviedo 16-17.12.2019](https://es.surveymonkey.com/r/GK8XLLN)
-## [Encuesta AT 14 Tenerife 7.11.2019](https://es.surveymonkey.com/r/5TVK32L)
+## [Encuesta AT 13 Palma de Mallorca 10/04/2020]()
 
 
 ### Nuestros contactos: 
@@ -72,11 +71,9 @@
 	<tbody>
 		<tr>
 			<td>raulbm @ mundiaudit.com</td>
-			<td>ignacioll @ mundiaudit.com</td>
 		</tr>
 		<tr>
 			<td><a href="https://www.linkedin.com/in/raulbm/"><img src="/Curso-de-Herramientas-analiticas-para-auditoria-II/images/LinkedInConnectButton.jpg"></a></td>
-			<td><a href="https://www.linkedin.com/in/ignacio-lópez-lópez-13873a100/"><img src="/Curso-de-Herramientas-analiticas-para-auditoria-II/images/LinkedInConnectButton.jpg"></a></td>
 		</tr>
 	</tbody>
 </table>
