@@ -79,4 +79,14 @@
 </table>
                
               
+ 1  Casos prácticos en Power Query aplicados a la auditoria
+•        Analítica de tipología de transacciones y asientos
+•        Recálculo de Bases imponibles y cuotas en base al diario
+•        Métodos avanzados para conciliación de cuentas
+•        Análisis de Benford
+•        Pruebas de calidad de la información en el diario contable (saltos de secuencia, duplicidades, etc)
+•        Extracción desde modelos tributarios y otros tipos de ficheros: 190, 110, 303, 390, 347, SII, N43
+•        Muestreo básico
+
+https://www.journalofaccountancy.com/issues/2021/may/make-audits-more-effective-through-data-visualization.html
 
