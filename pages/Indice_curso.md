@@ -26,6 +26,7 @@
   *	Funciones de Excel presentes en DAX
   *	[Funciones DAX comunes](https://sway.office.com/DVbC6PoC404cj5Dr?ref=Link)
   * [Contextos](https://sway.office.com/veU9irovGannrEk0?ref=Link)
+
 <!--
 ### [Módulo 4](https://sway.office.com/BbWAbsc9pIMvtvdd?ref=Link) (Opcional)
   * Caso práctico de repaso
@@ -64,8 +65,6 @@
 
 
 ## [Enlaces de interés](https://raulbm.github.io/Curso-de-Herramientas-analiticas-para-auditoria-II/pages/EnlacesBlogsInteresantes.html)
-
-## [Encuesta AT 13 Palma de Mallorca 10/04/2020]()
 
 
 ### Nuestros contactos: 
