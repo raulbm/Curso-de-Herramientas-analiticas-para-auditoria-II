@@ -24,7 +24,9 @@
 ### [Módulo 3](https://sway.office.com/rUf3dRB8Bn8jDeHS?ref=Link)
   *	Introducción a DAX
   *	Funciones de Excel presentes en DAX
-
+  *	[Funciones DAX comunes](https://sway.office.com/DVbC6PoC404cj5Dr?ref=Link)
+  * [Contextos](https://sway.office.com/veU9irovGannrEk0?ref=Link)
+<!--
 ### [Módulo 4](https://sway.office.com/BbWAbsc9pIMvtvdd?ref=Link) (Opcional)
   * Caso práctico de repaso
 
@@ -37,25 +39,25 @@
   * Visualización, funciones de cubo
   * Caso práctico Obtención Estados Financieros
   * Cálculo de ratios
-
+-->
   
 ## Visualizaciones y Publicación de reportes con Power BI
 
-### Módulo 7
+### Módulo 4
   1. Instalar PBI, instalar plugin para Excel y crear cuenta online
   1. Conociendo el entorno comparándolo con excel
   1. [Caso práctico en PBI](https://docs.microsoft.com/es-es/power-bi/desktop-tutorial-analyzing-sales-data-from-excel-and-an-odata-feed)
   1. Publicar en la web
   1. Conocer entorno web (Power BI Service): paneles, informes y datos
 
-
+<!--
 ## Casos prácticos
 *	Obtener un Balance de comprobación
 * Obtener Balance de situación y Cuenta de Pérdidas y Ganancias
 * Cálculo de ratios económico-financieros para su revisión analítica
 * Segmentación de cuentas a cobrar y/o a pagar mediante análisis ABC
 * Entender el entorno de Power BI para elaboración y visualización de cuadros de mando.
-
+-->
 
 
 ## [Enlace para descargar todos los ficheros de ejercios en un zip](https://raulbm.github.io/Curso-de-Herramientas-analiticas-para-auditoria-II/downloads/Ejercicios.zip)
@@ -78,8 +80,8 @@
 	</tbody>
 </table>
                
-              
- 1  Casos prácticos en Power Query aplicados a la auditoria
+<!--              
+         Casos prácticos en Power Query aplicados a la auditoria
 •        Analítica de tipología de transacciones y asientos
 •        Recálculo de Bases imponibles y cuotas en base al diario
 •        Métodos avanzados para conciliación de cuentas
@@ -87,6 +89,8 @@
 •        Pruebas de calidad de la información en el diario contable (saltos de secuencia, duplicidades, etc)
 •        Extracción desde modelos tributarios y otros tipos de ficheros: 190, 110, 303, 390, 347, SII, N43
 •        Muestreo básico
+         Extracción desde PDF
 
 https://www.journalofaccountancy.com/issues/2021/may/make-audits-more-effective-through-data-visualization.html
 
+-->
