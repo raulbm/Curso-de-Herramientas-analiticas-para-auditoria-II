@@ -50,6 +50,7 @@
   1. [Caso práctico en PBI](https://docs.microsoft.com/es-es/power-bi/desktop-tutorial-analyzing-sales-data-from-excel-and-an-odata-feed)
   1. Publicar en la web
   1. Conocer entorno web (Power BI Service): paneles, informes y datos
+  1. [Enlace para descargar ejercios PBI en un zip](https://raulbm.github.io/Curso-de-Herramientas-analiticas-para-auditoria-II/downloads/Ejercicios_PBI.zip)
 
 <!--
 ## Casos prácticos
